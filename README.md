@@ -15,7 +15,7 @@
 # 演示效果
 <img src="https://dongli.pages.dev/file/a27d8d3b3722b8b12599b.png">
 △后台设置页面
-
+<br>
 <img src="https://dongli.pages.dev/file/91618dc7e168f74734044.png">
 △站点关闭后的默认页面（可自行更改）
 
