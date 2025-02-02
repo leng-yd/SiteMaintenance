@@ -3,9 +3,9 @@
  * Typecho 站点维护插件
  *
  * @package SiteMaintenance
- * @author Fence
+ * @author Easton
  * @version 1.0.0
- * @link https://github.com/lengyandong
+ * @link https://brume.top/
  */
 
 class SiteMaintenance_Plugin implements Typecho_Plugin_Interface
